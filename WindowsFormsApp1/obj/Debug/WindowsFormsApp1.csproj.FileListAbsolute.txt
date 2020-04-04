@@ -1,0 +1,11 @@
+C:\Users\44775\Desktop\SoftwareLast\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\44775\Desktop\SoftwareLast\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\44775\Desktop\SoftwareLast\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\44775\Desktop\SoftwareLast\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\44775\Desktop\SoftwareLast\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\44775\Desktop\SoftwareLast\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\44775\Desktop\SoftwareLast\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\44775\Desktop\SoftwareLast\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\44775\Desktop\SoftwareLast\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\44775\Desktop\SoftwareLast\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BusinessForm.resources
+C:\Users\44775\Desktop\SoftwareLast\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WelcomeForm.resources
