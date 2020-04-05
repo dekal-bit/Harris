@@ -20,5 +20,7 @@ namespace WindowsFormsApp1
         public string ContactEmail { get; set; }
 
         public string ContactTel { get; set; }
+
+        
     }
 }

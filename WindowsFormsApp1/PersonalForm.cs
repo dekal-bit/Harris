@@ -179,7 +179,19 @@ namespace WindowsFormsApp1
 
 
         }
+
+        private void btnMain_Click(object sender, EventArgs e)
+        {
+            Close();
+          
+        }
+
+        private void lblAddress_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
     }
 
 
-}
+
